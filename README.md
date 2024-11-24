@@ -321,7 +321,7 @@ You may not need it, but here are some sites for learning a new language:
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
 
 - C++
-- Java
+- Java # my choice
 - Python
 
 You could also use these, but read around first. There may be caveats:
