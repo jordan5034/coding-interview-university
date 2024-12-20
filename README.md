@@ -1,6 +1,10 @@
 # Coding Interview University
 (੭｡╹▿╹｡)੭
 
+> [View JWasham C code](https://github.com/jwasham/practice-c)
+
+---
+
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
 > as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
@@ -610,7 +614,7 @@ But don't forget to do coding problems from above while you learn!
 - [ ] [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
 - [ ] [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [X] [Cheat sheet](http://bigocheatsheet.com/)
-- [X] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
+- [ ] [[Review] Analyzing Algorithms (playlist) in 18 minutes (video)](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 - [X] [Big O Notation — Calculating Time Complexity](https://www.youtube.com/watch?v=Z0bH0cMY0E8) I added.
 - [ ] [Big-O Notation - For Coding Interviews](https://www.youtube.com/watch?v=BgLTDT03QtU) I added.
 
