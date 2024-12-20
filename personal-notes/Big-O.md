@@ -150,6 +150,8 @@ void permute(String str, int l, int r) {
 | **O(2^n)**       | Recursive Fibonacci       | Very rapid             |
 | **O(n!)**        | Permutations              | Extremely rapid        |
 
+![Big-O complexity chart](images/big-o%20complexity%20chart.png)
+
 ---
 
 ## How to Analyze Big-O Complexity
